@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UdaraN98
-- 👀 I’m interested in Competitive Programming and Machine Learning
+- 👀 I’m interested in Competitive Programming, Edge computing, IoT, 5G and Machine Learning
 - 🌱 I’m currently learning @ UOJ FOE
 - 💞️ I’m looking to collaborate on ML and AI based projects
 - 📫 How to reach me udara.unb98@gmail.com
